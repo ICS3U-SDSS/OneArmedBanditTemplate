@@ -21,7 +21,7 @@ namespace OneArmedBandit
             InitializeComponent();
         }
 
-        private void spinButton_Click(object sender, EventArgs e)
+        private void spinButton_Click(object sender, EventArgs e) 
         {
             // get random values for each reel (store each in separate int variable)
 
