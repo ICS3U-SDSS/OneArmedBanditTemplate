@@ -47,7 +47,7 @@
             this.spinButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.spinButton.Font = new System.Drawing.Font("Rockwell", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.spinButton.Location = new System.Drawing.Point(319, 122);
-            this.spinButton.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.spinButton.Margin = new System.Windows.Forms.Padding(2);
             this.spinButton.Name = "spinButton";
             this.spinButton.Size = new System.Drawing.Size(51, 46);
             this.spinButton.TabIndex = 3;
@@ -141,9 +141,9 @@
             this.Controls.Add(this.outputLabel);
             this.Controls.Add(this.spinButton);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form1";
-            this.Text = "Central Slots";
+            this.Text = "One Armed Bandit";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
