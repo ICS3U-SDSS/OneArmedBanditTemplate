@@ -26,13 +26,15 @@ namespace OneArmedBandit
             // get random values for each reel (store each in separate int variable)
 
 
-            // check value of reel 1 with a switch statement and set appropriate image
+            // check value of reel 1 with a switch statement to set appropriate image to
+            // BackgroundImage property of pictureBox. Get images from Properties.Resources
 
 
-            // check value of reel 2 with a switch statement and set appropriate image
+            // check value of reel 2 with a switch statement to set appropriate image to
+            // BackgroundImage property of pictureBox. Get images from Properties.Resources
 
-
-            // check value of reel 3 with a switch statement and set appropriate image
+            // check value of reel 3 with a switch statement to set appropriate image to
+            // BackgroundImage property of pictureBox. Get images from Properties.Resources
 
 
             /// STOP HERE ----------------------------------------------------------
